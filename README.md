@@ -7,6 +7,11 @@ Tasks are stored in your browser using `localStorage` for seamless offline acces
 
 ---
 
+## Live Demo
+https://suyogshirpe.github.io/ToDo-List/
+
+---
+
 ## 🚀 Features
 
 - [x] Add tasks with due dates  
