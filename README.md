@@ -8,7 +8,7 @@ Tasks are stored in your browser using `localStorage` for seamless offline acces
 ---
 
 ## Live Demo
-https://suyogshirpe.github.io/ToDo-List/
+https://suyogshirpe.github.io/js-ToDo-List/
 
 ---
 
